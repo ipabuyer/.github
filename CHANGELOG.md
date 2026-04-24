@@ -3,7 +3,7 @@
 ## v2026.4.25.0
 
 1. 切换ipatool.exe为main分支版本
-2. 修复了ARM64价格打包ipatool错误的问题
+2. 修复了ARM64架构打包ipatool错误的问题
 3. 重绘UI
 
 ## v2026.3.19.0
