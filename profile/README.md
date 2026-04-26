@@ -2,9 +2,7 @@
 
 ## 一、软件介绍
 
-- 刚刚拿到iPhone，受折磨于反复按下锁屏键购入App；
-- 还是担心小众优质App被下架？
-- 使用IPAbuyer，将App统统收入囊中！
+刚刚拿到iPhone，受折磨于反复按下锁屏键购入App；还是担心小众优质App被下架？使用IPAbuyer，将App统统收入囊中！
 
 ## 二、如何下载
 
@@ -12,39 +10,7 @@
   <img src="https://get.microsoft.com/images/zh-cn%20dark.svg" alt="从 Microsoft 获取" />
 </a>
 
-## 三、与苹果商店对比
-
-### AppStore购买流程
-
-> 以Google的Gmail、Chrome和Gemini为例
-
-1. 打开App Store
-2. 登录Apple ID
-3. 找到Gmail
-4. 点击获取
-5. 等待弹窗
-6. 双击锁屏按钮
-7. 找到Chrome
-8. 点击获取
-9. 等待弹窗
-10. 双击锁屏按钮
-11. 找到Gemini
-12. 点击获取
-13. 等待弹窗
-14. 双击锁屏按钮
-
-![appstore](./images/appstore.png)
-
-### IPAbuyer购买流程
-
-> 以Google的Gmail、Chrome和Gemini为例
-
-1. 打开IPAbuyer
-2. 登录Apple ID
-3. 搜索Google
-4. 批量选择Gmail、Chrome和Gemini
-5. 点击购买
-6. 完成
+## 三、软件截图
 
 ![ipabuyer](./images/ipabuyer.png)
 
@@ -78,9 +44,10 @@
 
 > 为了保证账户安全性，本软件将进行App购买检查，只允许购买价格为0的App。
 
-## 五、开发者信息
+## 五、开发信息
 
-<https://github.com/ipabuyer/>
+- 开发者：<https://github.com/ipabuyer/>
+- 代码仓库：<https://github.com/ipabuyer/gui>
 
 ## 六、致谢
 
