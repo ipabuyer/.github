@@ -48,6 +48,7 @@
 
 - 开发者：<https://github.com/ipabuyer/>
 - 代码仓库：<https://github.com/ipabuyer/gui>
+- 更新日志：<https://github.com/ipabuyer/.github/blob/main/CHANGELOG.md>
 
 ## 六、致谢
 
