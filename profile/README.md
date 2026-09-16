@@ -1,3 +1,3 @@
 # IPAbuyer
 
-Has been migrated to <https://ipabuyer.github.io/>
+The README document has been moved to <https://ipabuyer.github.io/>
