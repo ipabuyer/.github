@@ -1,3 +1,3 @@
 # CHANGELOG
 
-Has been migrated to <https://ipabuyer.github.io/changelog.html>
+The CHANGELOG document has been moved to <https://ipabuyer.github.io/changelog.html>
